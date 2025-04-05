@@ -1,9 +1,7 @@
 # Project Name
-This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
+This is the Predicting Traffic Volume with Pytorch project from Datacamp.
 
 ## Description
-Optional section to provide a more detailed overview of the project.
+The purpose of this project is to build a deep learning model that predicts traffic voule and helps address congestion, road design, and smarter commutes.
 
-## Getting Started
-Optional section to summarize important steps and how to use the project & apps in the project
 
